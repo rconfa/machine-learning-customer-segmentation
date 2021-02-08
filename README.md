@@ -1,9 +1,9 @@
 
 
-<h1 align="center">Machine Learning -customer segmentation-</h1>
+<h1 align="center">Machine Learning <br /> Customer segmentation project</h1>
 
 ## Overview
-Final project in which we tried to answer the following question: "is it possible to divide the customers of an e-commerce site on the basis of their purchases in order to improve marketing communications?" <br />
+Final project of the course "Machine Learning" in which we tried to answer the following question: "is it possible to divide the customers of an e-commerce site on the basis of their purchases in order to improve marketing communications?" <br />
 To answer this question, the Recency-Frequency-Monetary (RFM) model was applied which made possible to cluster customers by identifying 3 distinct groups but with homogeneous characteristics that would allow a more incisive marketing communication. Various evaluation techniques were then implemented for the clusters obtained through the use of internal indices such as Rand and Silhouette and the validity paradigm was applied to verify the hypotesis that there is no structure on the dataset. <br />
 The dataset we used was found on kaggle and can be downloaded from the following links:
   * [Link1](https://www.kaggle.com/carrie1/ecommerce-data)
