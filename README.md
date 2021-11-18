@@ -21,6 +21,7 @@ The project was carried out with the use of Knime software and with the help of 
 #### Riccardo Confalonieri - Data Science Student @ University of Milano-Bicocca
   * r.confalonieri5@campus.unimib.it
   * [GitHub](https://github.com/rconfa)
+  * [LinkedIn](https://www.linkedin.com/in/riccardo-confalonieri-5250b0201/)
 
 #### Rebecca picarelli - Data Science Student @ University of Milano-Bicocca
   * r.picarelli1@campus.unimib.it
